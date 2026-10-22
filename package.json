@@ -1,0 +1,36 @@
+{
+  "name": "prettier-plugin-quarkjs",
+  "description": "Prettier Plugin to QuarkJS project",
+  "type": "module",
+  "version": "1.0",
+  "main": "prettier-plugin-jtx.mjs",
+  "bin": {
+    "prettier-plugin-quarkjs": "prettier-plugin-jtx.mjs"
+  },
+  "keywords": [
+    "react",
+    "jsx",
+    "tsx",
+    "quarkjs",
+    "jtx",
+    "project react"
+  ],
+  "author": "@arthurferreira-dev",
+  "license": "AGPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurferreira-dev/quarkjs"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "files": [
+    "prettier-plugin-jtx.mjs",
+    "LICENSE",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
