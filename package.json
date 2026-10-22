@@ -2,7 +2,7 @@
   "name": "prettier-plugin-quarkjs",
   "description": "Prettier Plugin to QuarkJS project",
   "type": "module",
-  "version": "1.0",
+  "version": "1.0.0",
   "main": "prettier-plugin-jtx.mjs",
   "bin": {
     "prettier-plugin-quarkjs": "prettier-plugin-jtx.mjs"
